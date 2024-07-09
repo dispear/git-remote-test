@@ -4,4 +4,6 @@
 ## 1-1. 세부 항목
 * 안녕하세요
 * 반갑습니다 
-* feature/cart가 첫 번째 파일을 수정함
+* feature/cart가 첫 번째 파일을 수정함 
+* feature/mypage가 첫 번째 파일을 수정함
+
